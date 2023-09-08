@@ -8,3 +8,5 @@ push:
 setup:
 	python3 -m venv venv
 	pip install -r requirements.txt
+start:
+	pyton3 main.py
