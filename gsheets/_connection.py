@@ -14,7 +14,8 @@ from pydrive.drive import GoogleDrive
 def get_creds():
     # To obtain a service account JSON file, follow these steps:
     # https://gspread.readthedocs.io/en/latest/oauth2.html#for-bots-using-service-account
-    creds = Credentials.from_service_account_file("gis-gkh-dce0833e31ca.json")
+    creds = Credentials.from_service_account_file(
+        "google_account_settings.json")
     scoped = creds.with_scopes([
         "https://spreadsheets.google.com/feeds",
         "https://www.googleapis.com/auth/spreadsheets",
@@ -24,7 +25,7 @@ def get_creds():
 
 
 __agcm = gspread_asyncio.AsyncioGspreadClientManager(get_creds)
-__gc = pygsheets.authorize(service_file='./gis-gkh-dce0833e31ca.json')
+__gc = pygsheets.authorize(service_file='./google_account_settings.json')
 # worksheet = __gc.open_by_url(
 #     'https://docs.google.com/spreadsheets/d/1jNn7XyYLPu4p0B6-RaQdFkUgpGB7m-OICv__jK9N6eM/edit#gid=0')
 worksheet = __gc.open_by_url(
@@ -32,7 +33,8 @@ worksheet = __gc.open_by_url(
 
 auth = GoogleAuth()
 scope = ["https://www.googleapis.com/auth/drive"]
-auth.credentials = ServiceAccountCredentials.from_json_keyfile_name('./gis-gkh-dce0833e31ca.json', scope)
+auth.credentials = ServiceAccountCredentials.from_json_keyfile_name(
+    './google_account_settings.json', scope)
 drive = GoogleDrive(auth)
 
 
