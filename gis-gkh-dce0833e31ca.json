@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gis-gkh",
+  "private_key_id": "dce0833e31ca4eba9177ef1cb2a7e7439eeeaa87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4B8maLcqd5b15\nahvF5ENoKMzPIumOAuXw2eP6XB1oraYMu1MzHbtdSzzeQvhB2KmGa09+muEhwx2P\nnbK+iTbyOPBWN+gyfIUVAL9TAl7Ul725msu9zdd4VDlkws9TTrTqBEDkCZIhWj/T\nC/xwV4uubFlHcBrEAeBdBUEo2k5+39mat7w3WIw6kn3Xnvf/oXp7YjsAizhwS539\nx59d3nWapY3c99x5o5uXHSHH0xYq7StijxfyOsVmKuPwWUj+5oVzW8MmrGwlOdu0\nglFTugt4H9QaNTZFLeRGw9cNRRV2tJhsgyM/ENdNjqz/NrJBoYXH/u9frI+r23Yw\nYAdH7c6FAgMBAAECggEAAXO6uQ5ExlfzR3Kj/66f2KVw4SfAQVrTKolYQvDKPUgY\nl/w8LrbZHvRwzPSaw/o95RT152S5A16Ewdw7IQxp5ei3U93xEDMjxTynmyWgFe3J\n6o9xdI1GkxPRuB0l1vnFkI6yQbbQus6kKPLQX8U4LgsJtNu07CMBbmw+orVw7gGP\nnhlID9lxi1XFn7P4GhHUyG3RuKCUnaXUlwsjjCpWkc257Lgn0tKYyBTu74enoc1t\nfRiGbR85MH+TuKC8Hgn8gWBGZ3JrX5N0ub25lTKZYy3S1UoGSuIGpB9TMrvTrfM2\n8cdwJ5Oz4rdhxRVn1InggGiak9YuHfa1fSRubH5VgQKBgQDpiO7zqHp/xHnACqIS\nKYqgJQJkdqLn8wQAm7Ia8+a2vSroWVjF5tp6v5pTXnqSIZeYwKW84G8pfEMHa2j3\np8tPgA54qYKeh/hIvW6oMw98S5whRwkwDn/FJHk+WAds0X8xORY0y8wlKk/Ta0qM\nKdc3n7th7byZ+VlEYIxZx9p2kQKBgQDJu7/K9/RZ9wpLiYgM+06JkbQIl/Mj7l9C\nhRelGietabWHJmaaUxmiNgsMcxCKy8Ci4A/geEfhI7kbdIqEVUt0+S+yQjqPIRTC\ncrpx4ms7dDGDTGvtyBHPFMbOsfuqoEFkSeYWpwuJAWTkyegtDSdpTJIp4qfQcRUA\nta7tnrlatQKBgC62cj2QxLgL3+KW/eYuIwl3fawEwv8sb++DNTQI92w0GIITZRto\n2ujUrJTigBf82ir21fAa4IFm1q2EQaHQEW3cioh+N59oSTSbl6fTVtSg9yD86YyQ\nSeRwMERVLV8J5Kw+4/85iKMifIconee9cswwijXDbQdLhhyUR16qCDvRAoGAPKVa\ntTPxm5Iu4CKKagyqwaSx0NuNVsH0lVTZlOLWBsX+spCSy9YroJ5KmAWHdZJnaQ+e\n9kZypXZN0bkpYzsZIiM/eYF7hUfWq9Y9wrrkrczyjZxN3gAFipGeaskK9XKT9ghZ\nSXoSd6+Zm0YvrEuGC5vfXQQsmvdD7yCvY/QRmPkCgYB/P99HnjVs1OuUC2UuyiUo\nIh/T5F21vbssQqczB8abhYeXICt0GXmR9dGrc880TzITKWAe8gDPIudfO+dDNGF4\nmNbE4NkIKLpbu51XIHsfXq5NzUKfp9zBHUlk+1MRPiBUt2NR7bloAwmlIvbvHUXj\nJUueKNixO2p2eXythJlD4w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "acc-222@gis-gkh.iam.gserviceaccount.com",
+  "client_id": "101285969207875936285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acc-222%40gis-gkh.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
